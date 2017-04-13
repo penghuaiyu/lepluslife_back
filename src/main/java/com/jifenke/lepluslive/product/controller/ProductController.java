@@ -34,6 +34,7 @@ import javax.inject.Inject;
 @RequestMapping("/manage")
 public class ProductController {
 
+
   @Inject
   private ProductService productService;
 
